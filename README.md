@@ -1,75 +1,37 @@
-[README.md](https://github.com/user-attachments/files/34957834/README.md)
-<div align="center">
+[README.md](https://github.com/user-attachments/files/34963370/README.md)
+# Ario
 
-<img src="assets/header.svg" alt="Ario – Umschulung zum Fachinformatiker für Anwendungsentwicklung" width="100%">
-
-</div>
-
-<br>
-
-Ich mache bei der CBW eine Umschulung zum Fachinformatiker für Anwendungsentwicklung und lerne, Software so zu schreiben, dass andere sie lesen, testen und weiterentwickeln können.
-
-Hier sammle ich Projekte aus dem Unterricht und aus eigener Übung. Ich bin noch in der Ausbildung, der IHK-Abschluss steht aus.
-
-<br>
+Ich mache bei der CBW eine Umschulung zum Fachinformatiker für Anwendungsentwicklung. Der IHK-Abschluss steht noch aus.
 
 ## Projekt
 
-<table>
-<tr>
-<td width="100%">
+[![Ausgaben-Report: Der Projekttitel springt auf eine versetzte zweite Zeile; eine rote Linie zeichnet den Umbruch nach.](assets/ausgaben-report.svg)](https://github.com/Ario-Mi/ausgaben-report)
 
-### [Ausgaben-Report](https://github.com/Ario-Mi/ausgaben-report)
+Der **Ausgaben-Report** ist ein Python-Programm für die Kommandozeile. Es liest Ausgaben aus CSV-Dateien ein und fasst sie pro Monat nach Kategorien zusammen. Die Auswertung lässt sich auf einen Monat begrenzen.
 
-Ein Python-Kommandozeilenprogramm, das Ausgaben aus einer CSV-Datei einliest und als Monatsübersicht nach Kategorien auswertet.
+Geldbeträge berechnet das Programm exakt mit `Decimal`. Es prüft die Eingaben und meldet Fehler verständlich. Einlesen, Auswertung und Ausgabe sind getrennt. Die Tests laufen mit `unittest`; zusätzliche Pakete sind nicht nötig.
 
-- Monatsübersicht nach Kategorien, optional gefiltert auf einen einzelnen Monat
-- Exakte Geldbeträge durch Rechnen mit `Decimal` statt Fließkommazahlen
-- Prüfung der Eingaben mit verständlichen Fehlermeldungen
-- Getrennte Bereiche für Einlesen, Auswertung und Ausgabe
-- Automatisierte Tests mit `unittest`
-- Keine zusätzlichen Python-Pakete erforderlich
+[Quellcode und Tests ansehen](https://github.com/Ario-Mi/ausgaben-report)
 
-[Zum Repository](https://github.com/Ario-Mi/ausgaben-report)
+## Kenntnisse
 
-</td>
-</tr>
-</table>
+**In Unterricht und Übungsprojekten angewendet**  
+Python, Java, PHP, JavaScript und React; SQL, relationale Datenbanken und Datenbankentwurf.
 
-<br>
-
-## Zertifizierungen
-
-| Zertifizierung | Aussteller |
-| :-- | :-- |
-| **Professional Scrum Master I (PSM I)** | Scrum.org |
-| **AWS Certified Cloud Practitioner** | Amazon Web Services |
-| **Oracle Certified Foundations Associate, Java** | Oracle |
-
-<br>
-
-## Technologien
-
-| Bereich | Aus Unterricht und Übungsprojekten | Grundlagen |
-| :-- | :-- | :-- |
-| **Programmiersprachen** | Python, Java, PHP, JavaScript | Node.js |
-| **Web** | HTML5, CSS3, React, jQuery, WordPress | |
-| **Daten** | SQL, relationale Datenbanken, Datenbankentwurf | NoSQL |
-| **Vorgehen und Entwurf** | Objektorientierte Programmierung, UML, Scrum | |
-
-<br>
+**Grundlagen**  
+Node.js, NoSQL, Netzwerke, AWS, Microsoft Azure und IT-Sicherheit.
 
 <details>
-<summary><b>Weitere Unterrichtsinhalte</b></summary>
+<summary>Weitere Unterrichtsinhalte</summary>
 
-<br>
+**In Unterricht und Übungsprojekten angewendet:** HTML5, CSS3, jQuery, WordPress, objektorientierte Programmierung, UML, Scrum und Hyper-V.
 
-Diese Themen habe ich in der Umschulung kennengelernt, zum Teil mit Übungen, überwiegend auf Grundlagenniveau:
-
-| Bereich | Inhalte |
-| :-- | :-- |
-| **Systeme und Netzwerk** | Hyper-V sowie Grundlagen zu Windows Server, Active Directory, DNS, DHCP und Netzwerken |
-| **Cloud** | Grundlagen zu AWS und Microsoft Azure |
-| **Weitere Themen** | Grundlagen zu IT-Sicherheit, künstlicher Intelligenz, Machine Learning und Deep Learning |
+**Grundlagen:** Windows Server, Active Directory, DNS, DHCP, KI, Machine Learning und Deep Learning.
 
 </details>
+
+## Erworbene Zertifikate
+
+- Professional Scrum Master I (PSM I, Scrum.org)
+- AWS Certified Cloud Practitioner
+- Oracle Certified Foundations Associate Java
