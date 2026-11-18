@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 476" width="1200" height="476" role="img" aria-labelledby="t d">
 <title id="t">geraeteverleih</title>
-<desc id="d">Geräteverleih: Flask-Webanwendung zur Ausleihe von Geräten. Doppelte Ausleihe per partiellem Index verhindert, idempotente Rückgabe, Transaktionen mit Rollback, CSRF-Schutz, 59 pytest-Tests mit GitHub Actions. Rechts ein Datenmodell mit den Tabellen devices, persons und loans.</desc>
+<desc id="d">Geräteverleih: Flask-Webanwendung zur Ausleihe von Geräten. Doppelte Ausleihe per partiellem Index verhindert, idempotente Rückgabe, Transaktionen mit Rollback, CSRF-Schutz, 62 pytest-Tests mit GitHub Actions, mit statischer Live-Demo auf GitHub Pages. Rechts ein Datenmodell mit den Tabellen devices, persons und loans.</desc>
 <rect x="1" y="1" width="1198" height="474" rx="12" fill="#0b0f14" stroke="#26323f" stroke-width="2"/>
 <path d="M1 13a12 12 0 0 1 12 -12H1187a12 12 0 0 1 12 12V54H1Z" fill="#121a22"/>
 <path d="M2 54H1198" stroke="#26323f" stroke-width="2"/>
@@ -16,7 +16,7 @@
 <text x="40" y="290" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#f0b45a">▸</text>
 <text x="62.4" y="290" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#d3dbe3">Transaktionen mit Rollback, CSRF-Schutz</text>
 <text x="40" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#f0b45a">▸</text>
-<text x="62.4" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#d3dbe3">59 pytest-Tests, GitHub Actions (Python 3.11–3.14)</text>
+<text x="62.4" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#d3dbe3">62 pytest-Tests, GitHub Actions (Python 3.11–3.14)</text>
 <text x="40" y="392" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15"><tspan fill="#4fd1e0">Python</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">Flask</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">SQLAlchemy</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">SQLite</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">pytest</tspan></text>
 <text x="40" y="424" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a">→ github.com/Ario-Mi/geraeteverleih</text>
 <rect x="640" y="84" width="236" height="136" rx="6" fill="#0f171f" stroke="#26323f" stroke-width="1.4"/>
@@ -46,4 +46,5 @@
 <text x="1050" y="220" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7a8896">1</text>
 <text x="926" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7a8896">n</text>
 <text x="760" y="452" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#f0b45a">UNIQUE(device_id) WHERE returned_date IS NULL</text>
+<rect x="1034" y="13" width="140" height="29" rx="14.5" fill="none" stroke="#7ee787" stroke-width="1.5"/><circle cx="1052" cy="27.5" r="4.5" fill="#7ee787"/><text x="1063" y="33" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#7ee787" font-weight="700">Live-Demo ↗</text>
 </svg>
