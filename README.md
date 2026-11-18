@@ -1,6 +1,6 @@
 
 
-<img src="assets/hero.svg" alt="Terminalfenster mit dem Pixel-Monogramm ARIO und den Eckdaten: Umschulung zum Fachinformatiker für Anwendungsentwicklung bei der CBW, Frankfurt am Main, in Ausbildung, sucht einen Praktikumsplatz, Stack Java, Python, PHP und SQL, 6 öffentliche Repositories, Zertifikate PSM I, AWS Certified Cloud Practitioner und Oracle Java Foundations" width="100%">
+<img src="assets/hero.svg" alt="Terminalfenster mit dem Pixel-Monogramm ARIO und den Eckdaten: Umschulung zum Fachinformatiker für Anwendungsentwicklung bei der CBW, Frankfurt am Main, in Ausbildung, sucht einen Praktikumsplatz, Stack Java, Python, PHP und SQL, 6 öffentliche Repositories, davon 3 mit Live-Demo, Zertifikate PSM I, AWS Certified Cloud Practitioner und Oracle Java Foundations" width="100%">
 
 </div>
 
@@ -22,6 +22,13 @@ Ich mache bei der CBW eine Umschulung zum Fachinformatiker für Anwendungsentwic
 <a href="https://github.com/Ario-Mi/ausgaben-report"><img src="assets/projekt-ausgaben.svg" alt="Ausgaben-Report: Python-Kommandozeilenprogramm für Monatsübersichten aus CSV-Dateien, mit Decimal, Eingabeprüfung und unittest." width="49%"></a>
 <a href="https://github.com/Ario-Mi/qr-studio"><img src="assets/projekt-qr.svg" alt="QR Studio: responsiver QR-Code-Generator mit HTML, CSS und JavaScript, mit PNG-Download." width="49%"></a>
 <a href="https://github.com/Ario-Mi/circular-navigation"><img src="assets/projekt-circular.svg" alt="Circular Navigation: animiertes kreisförmiges Menü mit HTML, CSS und Vanilla JavaScript." width="49%"></a>
+
+<p align="center">
+<b>Live-Demos:</b>
+<a href="https://ario-mi.github.io/signal-radio-tv/">SIGNAL Studio</a> ·
+<a href="https://ario-mi.github.io/qr-studio/">QR Studio</a> ·
+<a href="https://ario-mi.github.io/circular-navigation/">Circular Navigation</a>
+</p>
 
 <br>
 
