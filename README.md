@@ -1,29 +1,35 @@
-[README.md](https://github.com/user-attachments/files/34964106/README.md)
-<div align="center">
+[README.md](https://github.com/user-attachments/files/35035285/README.md)<div align="center">
 
-<img src="assets/hero.svg" alt="Terminalfenster mit dem Monogramm ARIO und den Eckdaten: Umschulung zum Fachinformatiker für Anwendungsentwicklung bei der CBW, Sprachen Python, Java, PHP und JavaScript, Projekt Ausgaben-Report, Zertifikate PSM I, AWS Cloud Practitioner und Oracle Java Foundations" width="100%">
+<img src="assets/hero.svg" alt="Terminalfenster mit dem Pixel-Monogramm ARIO und den Eckdaten: Umschulung zum Fachinformatiker für Anwendungsentwicklung bei der CBW, Frankfurt am Main, in Ausbildung, sucht einen Praktikumsplatz, Stack Java, Python, PHP und SQL, 6 öffentliche Repositories, Zertifikate PSM I, AWS Certified Cloud Practitioner und Oracle Java Foundations" width="100%">
 
 </div>
 
 <br>
 
-Ich mache bei der CBW eine Umschulung zum Fachinformatiker für Anwendungsentwicklung und lerne, Software so zu schreiben, dass andere sie lesen, testen und weiterentwickeln können. Hier sammle ich Projekte aus dem Unterricht und aus eigener Übung. Ich bin noch in der Ausbildung, der IHK-Abschluss steht aus.
+Ich mache bei der CBW eine Umschulung zum Fachinformatiker für Anwendungsentwicklung und suche einen Praktikumsplatz in Frankfurt am Main. Mir ist wichtig, dass Software nachvollziehbar bleibt: klare Regeln im Code und in der Datenbank, Tests und keine Zugangsdaten im Repository. Ich bin noch in der Ausbildung, der IHK-Abschluss steht aus.
 
 <br>
 
-<a href="https://github.com/Ario-Mi/ausgaben-report"><img src="assets/project-card.svg" alt="Ausgaben-Report: Python-Kommandozeilenprogramm, das Ausgaben aus CSV-Dateien als Monatsübersicht nach Kategorien auswertet. Bereiche: Einlesen mit Prüfung der Eingaben, Auswertung exakt mit Decimal und optionalem Monatsfilter, Ausgabe, automatisierte Tests mit unittest, keine zusätzlichen Pakete." width="100%"></a>
+<img src="assets/cmd-projekte.svg" alt="ls ~/projekte" width="100%">
+
+<a href="https://github.com/Ario-Mi/geraeteverleih"><img src="assets/projekt-geraeteverleih.svg" alt="Geräteverleih: Flask-Webanwendung zur Ausleihe von Geräten mit Python, Flask, SQLAlchemy, SQLite und pytest. Doppelte Ausleihe per partiellem Index verhindert, idempotente Rückgabe, Transaktionen mit Rollback, CSRF-Schutz, 59 pytest-Tests mit GitHub Actions." width="100%"></a>
+
+<a href="https://github.com/Ario-Mi/cinescope-php"><img src="assets/projekt-cinescope.svg" alt="CineScope: Filmportal mit PHP 8.2, PDO und MySQL/MariaDB. Suche nach Titel, Jahr, Schauspieler, Regie und Genre, AJAX-Suchvorschläge, Merkliste und Kommentare, OMDb-Daten als JSON und XML, Prepared Statements, Passwort-Hashes, CSRF-Tokens und Admin-Bereich mit Export." width="100%"></a>
+
+<img src="assets/cmd-mehr.svg" alt="Weitere Web-Projekte und Frontend-Übungen" width="100%">
+
+<a href="https://github.com/Ario-Mi/signal-radio-tv"><img src="assets/projekt-signal.svg" alt="SIGNAL Studio: Radio und Live-TV mit PHP, MySQL, JavaScript und HLS.js, Radio-Player auch als WordPress-Shortcode, Verwaltung mit CSRF-Schutz." width="49%"></a>
+<a href="https://github.com/Ario-Mi/ausgaben-report"><img src="assets/projekt-ausgaben.svg" alt="Ausgaben-Report: Python-Kommandozeilenprogramm für Monatsübersichten aus CSV-Dateien, mit Decimal, Eingabeprüfung und unittest." width="49%"></a>
+<a href="https://github.com/Ario-Mi/qr-studio"><img src="assets/projekt-qr.svg" alt="QR Studio: responsiver QR-Code-Generator mit HTML, CSS und JavaScript, mit PNG-Download." width="49%"></a>
+<a href="https://github.com/Ario-Mi/circular-navigation"><img src="assets/projekt-circular.svg" alt="Circular Navigation: animiertes kreisförmiges Menü mit HTML, CSS und Vanilla JavaScript." width="49%"></a>
 
 <br>
 
-<img src="assets/principles.svg" alt="Im Ausgaben-Report umgesetzt: getrennte Bereiche für Einlesen, Auswertung und Ausgabe; exakte Geldbeträge mit Decimal; Prüfung der Eingaben mit verständlichen Fehlermeldungen; automatisierte Tests mit unittest." width="100%">
-
-<br>
+<img src="assets/arbeitsweise.svg" alt="Arbeitsweise: Regeln in der Datenbank absichern, Sicherheit mitdenken mit Prepared Statements, Passwort-Hashes und CSRF-Tokens, isoliert gegen eigene Testdatenbanken testen, keine Zugangsdaten im Code, Geldbeträge exakt mit Decimal rechnen." width="100%">
 
 <img src="assets/certs.svg" alt="Erworbene Zertifizierungen: Professional Scrum Master I (PSM I) von Scrum.org, AWS Certified Cloud Practitioner von Amazon Web Services, Oracle Certified Foundations Associate Java von Oracle." width="100%">
 
-<br>
-
-<img src="assets/skills.svg" alt="Aus Unterricht und Übungsprojekten: Python, Java, PHP, JavaScript, HTML5, CSS3, React, jQuery, WordPress, SQL, relationale Datenbanken, Datenbankentwurf, objektorientierte Programmierung, UML, Scrum. Grundlagen: Node.js, NoSQL." width="100%">
+<img src="assets/skills.svg" alt="In Unterricht und eigenen Projekten eingesetzt: Python, Java, PHP, JavaScript, SQL, Flask, SQLAlchemy, Jinja2, PDO, HTML5, CSS3, AJAX, React, jQuery, WordPress, MySQL/MariaDB, SQLite, Datenbankentwurf, pytest, unittest, GitHub Actions, OOP, UML, Scrum, Git. Grundlagen: Node.js, NoSQL." width="100%">
 
 <details>
 <summary><b>Weitere Unterrichtsinhalte</b></summary>
@@ -39,3 +45,7 @@ Diese Themen habe ich in der Umschulung kennengelernt, überwiegend auf Grundlag
 | **Weitere Themen** | Grundlagen zu IT-Sicherheit, künstlicher Intelligenz, Machine Learning und Deep Learning |
 
 </details>
+
+<br>
+
+<img src="assets/footer.svg" alt="Ziel: Praktikumsplatz in der Anwendungsentwicklung in Frankfurt am Main" width="100%">
