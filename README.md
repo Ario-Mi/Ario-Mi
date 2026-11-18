@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/35035285/README.md)<div align="center">
+
 
 <img src="assets/hero.svg" alt="Terminalfenster mit dem Pixel-Monogramm ARIO und den Eckdaten: Umschulung zum Fachinformatiker für Anwendungsentwicklung bei der CBW, Frankfurt am Main, in Ausbildung, sucht einen Praktikumsplatz, Stack Java, Python, PHP und SQL, 6 öffentliche Repositories, Zertifikate PSM I, AWS Certified Cloud Practitioner und Oracle Java Foundations" width="100%">
 
