@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" role="img" aria-labelledby="t d">
+<title id="t">ausgaben-report</title>
+<desc id="d">Ausgaben-Report: Python-Kommandozeilenprogramm, das Ausgaben aus CSV-Dateien als Monatsübersicht nach Kategorien auswertet, mit Eingabeprüfung, Decimal, optionalem Monatsfilter und unittest-Tests.</desc>
+<style>
+.l{animation:rv .45s ease-out both}
+.c{animation:bl 1.1s steps(1) infinite}
+.eq{transform-box:fill-box;transform-origin:50% 100%;animation:eq 1.4s ease-in-out infinite alternate}
+@keyframes rv{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+@keyframes bl{50%{opacity:0}}
+@keyframes eq{from{transform:scaleY(.35)}to{transform:scaleY(1)}}
+@media (prefers-reduced-motion:reduce){.l,.c,.eq{animation:none}}
+</style>
+<rect x="1" y="1" width="598" height="398" rx="12" fill="#0b0f14" stroke="#26323f" stroke-width="2"/>
+<path d="M1 13a12 12 0 0 1 12 -12H587a12 12 0 0 1 12 12V48H1Z" fill="#121a22"/>
+<path d="M2 48H598" stroke="#26323f" stroke-width="2"/>
+<circle cx="32" cy="25.0" r="7" fill="#ff5f56"/><circle cx="56" cy="25.0" r="7" fill="#ffbd2e"/><circle cx="80" cy="25.0" r="7" fill="#27c93f"/>
+<text x="300.0" y="30.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#7a8896">ausgaben-report</text>
+<text x="28" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15"><tspan fill="#7ee787">ario@frankfurt</tspan><tspan fill="#7a8896">:~$ </tspan><tspan fill="#d3dbe3">python ausgaben_report.py ausgaben.csv</tspan></text>
+<text x="28" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="30" fill="#4fd1e0" font-weight="700">Ausgaben-Report</text>
+<text x="28" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#7a8896">CSV-Ausgaben als Monatsübersicht nach Kategorien</text>
+<text x="28" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#7a8896">├──</text>
+<text x="70" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a" font-weight="700">einlesen</text>
+<text x="190" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#d3dbe3">CSV prüfen</text>
+<text x="28" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#7a8896">├──</text>
+<text x="70" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a" font-weight="700">auswertung</text>
+<text x="190" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#d3dbe3">Decimal, Monatsfilter</text>
+<text x="28" y="246" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#7a8896">├──</text>
+<text x="70" y="246" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a" font-weight="700">ausgabe</text>
+<text x="190" y="246" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#d3dbe3">Monatsübersicht</text>
+<text x="28" y="268" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#7a8896">└──</text>
+<text x="70" y="268" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a" font-weight="700">tests</text>
+<text x="190" y="268" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#d3dbe3">unittest</text>
+<text x="28" y="300" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a">▸</text>
+<text x="49.0" y="300" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#d3dbe3">Exakte Geldbeträge mit Decimal</text>
+<text x="28" y="328" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a">▸</text>
+<text x="49.0" y="328" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#d3dbe3">Keine zusätzlichen Python-Pakete</text>
+<text x="28" y="372" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14"><tspan fill="#4fd1e0">Python</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">argparse</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">unittest</tspan></text>
+</svg>

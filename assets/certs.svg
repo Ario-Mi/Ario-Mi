@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 322" width="1200" height="322" role="img" aria-labelledby="t d">
+<title id="t">zertifikate/</title>
+<desc id="d">Drei erworbene Zertifizierungen: Professional Scrum Master I von Scrum.org, AWS Certified Cloud Practitioner von Amazon Web Services, Oracle Certified Foundations Associate Java von Oracle.</desc>
+<rect x="1" y="1" width="1198" height="320" rx="12" fill="#0b0f14" stroke="#26323f" stroke-width="2"/>
+<path d="M1 13a12 12 0 0 1 12 -12H1187a12 12 0 0 1 12 12V54H1Z" fill="#121a22"/>
+<path d="M2 54H1198" stroke="#26323f" stroke-width="2"/>
+<circle cx="32" cy="28.0" r="7" fill="#ff5f56"/><circle cx="56" cy="28.0" r="7" fill="#ffbd2e"/><circle cx="80" cy="28.0" r="7" fill="#27c93f"/>
+<text x="600.0" y="33.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#7a8896">zertifikate/</text>
+<text x="40" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="18"><tspan fill="#7ee787">ario@frankfurt</tspan><tspan fill="#7a8896">:~$ </tspan><tspan fill="#d3dbe3">ls -l zertifikate/</tspan></text>
+<text x="40" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7a8896">STATUS</text>
+<text x="190" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7a8896">ZERTIFIKAT</text>
+<text x="780" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7a8896">AUSSTELLER</text>
+<text x="40" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#7ee787" font-weight="700">[erworben]</text>
+<text x="190" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">Professional Scrum Master I (PSM I)</text>
+<text x="780" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#4fd1e0">Scrum.org</text>
+<text x="40" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#7ee787" font-weight="700">[erworben]</text>
+<text x="190" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">AWS Certified Cloud Practitioner</text>
+<text x="780" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#4fd1e0">Amazon Web Services</text>
+<text x="40" y="264" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#7ee787" font-weight="700">[erworben]</text>
+<text x="190" y="264" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">Oracle Certified Foundations Associate, Java</text>
+<text x="780" y="264" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#4fd1e0">Oracle</text>
+</svg>

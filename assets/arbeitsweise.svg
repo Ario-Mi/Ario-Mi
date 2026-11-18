@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 494" width="1200" height="494" role="img" aria-labelledby="t d">
+<title id="t">arbeitsweise.md</title>
+<desc id="d">Arbeitsweise über die Projekte hinweg: Regeln in der Datenbank absichern, Sicherheit mitdenken mit Prepared Statements, Passwort-Hashes und CSRF-Tokens, isoliert testen, keine Zugangsdaten im Code, exakt rechnen mit Decimal.</desc>
+<rect x="1" y="1" width="1198" height="492" rx="12" fill="#0b0f14" stroke="#26323f" stroke-width="2"/>
+<path d="M1 13a12 12 0 0 1 12 -12H1187a12 12 0 0 1 12 12V54H1Z" fill="#121a22"/>
+<path d="M2 54H1198" stroke="#26323f" stroke-width="2"/>
+<circle cx="32" cy="28.0" r="7" fill="#ff5f56"/><circle cx="56" cy="28.0" r="7" fill="#ffbd2e"/><circle cx="80" cy="28.0" r="7" fill="#27c93f"/>
+<text x="600.0" y="33.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#7a8896">arbeitsweise.md</text>
+<text x="40" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="18"><tspan fill="#7ee787">ario@frankfurt</tspan><tspan fill="#7a8896">:~$ </tspan><tspan fill="#d3dbe3">cat arbeitsweise.md</tspan></text>
+<text x="40" y="154" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#f0b45a" font-weight="700">[1]</text>
+<text x="96" y="154" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#4fd1e0" font-weight="700">Regeln in der Datenbank absichern</text>
+<text x="96" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#d3dbe3">Partieller Index und CHECK-Constraints im Geräteverleih verhindern ungültige Daten.</text>
+<text x="40" y="218" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#f0b45a" font-weight="700">[2]</text>
+<text x="96" y="218" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#4fd1e0" font-weight="700">Sicherheit mitdenken</text>
+<text x="96" y="244" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#d3dbe3">Prepared Statements, Passwort-Hashes und CSRF-Tokens in CineScope, SIGNAL und Geräteverleih.</text>
+<text x="40" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#f0b45a" font-weight="700">[3]</text>
+<text x="96" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#4fd1e0" font-weight="700">Isoliert testen</text>
+<text x="96" y="308" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#d3dbe3">Tests laufen gegen eigene Testdatenbanken, die echten Daten bleiben unberührt.</text>
+<text x="40" y="346" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#f0b45a" font-weight="700">[4]</text>
+<text x="96" y="346" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#4fd1e0" font-weight="700">Keine Zugangsdaten im Code</text>
+<text x="96" y="372" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#d3dbe3">Lokale Konfigurationsdateien, Admin-Passwort nur als Hash, kein Standardkennwort.</text>
+<text x="40" y="410" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#f0b45a" font-weight="700">[5]</text>
+<text x="96" y="410" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#4fd1e0" font-weight="700">Exakt rechnen</text>
+<text x="96" y="436" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#d3dbe3">Geldbeträge im Ausgaben-Report mit Decimal statt Fließkommazahlen.</text>
+</svg>

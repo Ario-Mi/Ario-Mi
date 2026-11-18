@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 204" width="1200" height="204" role="img" aria-labelledby="t d">
+<title id="t">ario@frankfurt: ~</title>
+<desc id="d">Ziel: ein Praktikumsplatz in der Anwendungsentwicklung in Frankfurt am Main.</desc>
+<style>
+.l{animation:rv .45s ease-out both}
+.c{animation:bl 1.1s steps(1) infinite}
+.eq{transform-box:fill-box;transform-origin:50% 100%;animation:eq 1.4s ease-in-out infinite alternate}
+@keyframes rv{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+@keyframes bl{50%{opacity:0}}
+@keyframes eq{from{transform:scaleY(.35)}to{transform:scaleY(1)}}
+@media (prefers-reduced-motion:reduce){.l,.c,.eq{animation:none}}
+</style>
+<rect x="1" y="1" width="1198" height="202" rx="12" fill="#0b0f14" stroke="#26323f" stroke-width="2"/>
+<path d="M1 13a12 12 0 0 1 12 -12H1187a12 12 0 0 1 12 12V54H1Z" fill="#121a22"/>
+<path d="M2 54H1198" stroke="#26323f" stroke-width="2"/>
+<circle cx="32" cy="28.0" r="7" fill="#ff5f56"/><circle cx="56" cy="28.0" r="7" fill="#ffbd2e"/><circle cx="80" cy="28.0" r="7" fill="#27c93f"/>
+<text x="600.0" y="33.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#7a8896">ario@frankfurt: ~</text>
+<text x="40" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="18"><tspan fill="#7ee787">ario@frankfurt</tspan><tspan fill="#7a8896">:~$ </tspan><tspan fill="#d3dbe3">echo $ZIEL</tspan></text>
+<text x="40" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="18" fill="#d3dbe3">Praktikumsplatz in der Anwendungsentwicklung · Frankfurt am Main</text>
+<text x="40" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="18"><tspan fill="#7ee787">ario@frankfurt</tspan><tspan fill="#7a8896">:~$ </tspan><tspan fill="#d3dbe3"></tspan></text>
+<rect class="c" x="235" y="160" width="10" height="20" fill="#4fd1e0"/>
+</svg>

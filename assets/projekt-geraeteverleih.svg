@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 476" width="1200" height="476" role="img" aria-labelledby="t d">
+<title id="t">geraeteverleih</title>
+<desc id="d">Geräteverleih: Flask-Webanwendung zur Ausleihe von Geräten. Doppelte Ausleihe per partiellem Index verhindert, idempotente Rückgabe, Transaktionen mit Rollback, CSRF-Schutz, 59 pytest-Tests mit GitHub Actions. Rechts ein Datenmodell mit den Tabellen devices, persons und loans.</desc>
+<rect x="1" y="1" width="1198" height="474" rx="12" fill="#0b0f14" stroke="#26323f" stroke-width="2"/>
+<path d="M1 13a12 12 0 0 1 12 -12H1187a12 12 0 0 1 12 12V54H1Z" fill="#121a22"/>
+<path d="M2 54H1198" stroke="#26323f" stroke-width="2"/>
+<circle cx="32" cy="28.0" r="7" fill="#ff5f56"/><circle cx="56" cy="28.0" r="7" fill="#ffbd2e"/><circle cx="80" cy="28.0" r="7" fill="#27c93f"/>
+<text x="600.0" y="33.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#7a8896">geraeteverleih</text>
+<text x="40" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17"><tspan fill="#7ee787">ario@frankfurt</tspan><tspan fill="#7a8896">:~$ </tspan><tspan fill="#d3dbe3">flask --app app run</tspan></text>
+<text x="40" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="36" fill="#4fd1e0" font-weight="700">Geräteverleih</text>
+<text x="40" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">Wer hat welches Gerät? Was ist frei, was überfällig?</text>
+<text x="40" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#f0b45a">▸</text>
+<text x="62.4" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#d3dbe3">Doppelte Ausleihe per partiellem Index verhindert</text>
+<text x="40" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#f0b45a">▸</text>
+<text x="62.4" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#d3dbe3">Rückgabe idempotent, Historie bleibt erhalten</text>
+<text x="40" y="290" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#f0b45a">▸</text>
+<text x="62.4" y="290" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#d3dbe3">Transaktionen mit Rollback, CSRF-Schutz</text>
+<text x="40" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#f0b45a">▸</text>
+<text x="62.4" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#d3dbe3">59 pytest-Tests, GitHub Actions (Python 3.11–3.14)</text>
+<text x="40" y="392" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15"><tspan fill="#4fd1e0">Python</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">Flask</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">SQLAlchemy</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">SQLite</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">pytest</tspan></text>
+<text x="40" y="424" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a">→ github.com/Ario-Mi/geraeteverleih</text>
+<rect x="640" y="84" width="236" height="136" rx="6" fill="#0f171f" stroke="#26323f" stroke-width="1.4"/>
+<path d="M640 118H876" stroke="#26323f"/>
+<text x="654" y="107" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a" font-weight="700">devices</text>
+<text x="654" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#4fd1e0">inventory_number</text>
+<text x="654" y="164" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">name</text>
+<text x="654" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">category</text>
+<text x="654" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">is_archived</text>
+<rect x="924" y="84" width="236" height="88" rx="6" fill="#0f171f" stroke="#26323f" stroke-width="1.4"/>
+<path d="M924 118H1160" stroke="#26323f"/>
+<text x="938" y="107" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a" font-weight="700">persons</text>
+<text x="938" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#4fd1e0">name</text>
+<text x="938" y="164" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">email</text>
+<rect x="760" y="260" width="280" height="160" rx="6" fill="#0f171f" stroke="#4fd1e0" stroke-width="1.4"/>
+<path d="M760 294H1040" stroke="#26323f"/>
+<text x="774" y="283" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a" font-weight="700">loans</text>
+<text x="774" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#4fd1e0">device_id → devices</text>
+<text x="774" y="340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">person_id → persons</text>
+<text x="774" y="364" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">loan_date</text>
+<text x="774" y="388" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">due_date</text>
+<text x="774" y="412" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">returned_date</text>
+<path d="M758 220V230H860V260" fill="none" stroke="#7a8896" stroke-width="1.4"/>
+<path d="M1042 172V230H940V260" fill="none" stroke="#7a8896" stroke-width="1.4"/>
+<text x="744" y="246" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7a8896">1</text>
+<text x="866" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7a8896">n</text>
+<text x="1050" y="220" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7a8896">1</text>
+<text x="926" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7a8896">n</text>
+<text x="760" y="452" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#f0b45a">UNIQUE(device_id) WHERE returned_date IS NULL</text>
+</svg>
