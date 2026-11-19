@@ -6,7 +6,7 @@
 
 <br>
 
-Ich mache bei der CBW eine Umschulung zum Fachinformatiker für Anwendungsentwicklung und suche einen Praktikumsplatz in Frankfurt am Main. Mir ist wichtig, dass Software nachvollziehbar bleibt: klare Regeln im Code und in der Datenbank, Tests und keine Zugangsdaten im Repository. Ich bin noch in der Ausbildung, der IHK-Abschluss steht aus.
+<img src="assets/ueber-mich.svg" alt="Über mich: Quereinsteiger in der Umschulung zum Fachinformatiker für Anwendungsentwicklung bei der CBW. Vorher Projektabwicklung in einer Digitaldruckerei, daraus ist mein Java-Projekt entstanden. Ich bin noch in der Ausbildung und lerne an echten Projekten: erst verstehen, dann bauen, dann testen. Ich lerne gerade Linux und Django." width="100%">
 
 <br>
 
