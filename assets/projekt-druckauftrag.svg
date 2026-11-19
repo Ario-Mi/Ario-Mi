@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 476" width="1200" height="476" role="img" aria-labelledby="t d">
+<title id="t">druckauftrag-manager</title>
+<desc id="d">Druckauftrag-Manager: Auftragsverwaltung für eine kleine Digitaldruckerei mit Java 21, Spring Boot, Spring Data JPA, Thymeleaf und H2. Statusablauf vom Eingang bis zur Abholung, Preisberechnung nach Auflage, Format und Papier mit BigDecimal, Übersicht mit fälligen und überfälligen Aufträgen, Validierung und JUnit-5-Tests. Rechts ein Datenmodell mit den Tabellen kunde und auftrag sowie dem Status-Ablauf.</desc>
+<rect x="1" y="1" width="1198" height="474" rx="12" fill="#0b0f14" stroke="#26323f" stroke-width="2"/>
+<path d="M1 13a12 12 0 0 1 12 -12H1187a12 12 0 0 1 12 12V54H1Z" fill="#121a22"/>
+<path d="M2 54H1198" stroke="#26323f" stroke-width="2"/>
+<circle cx="32" cy="28.0" r="7" fill="#ff5f56"/><circle cx="56" cy="28.0" r="7" fill="#ffbd2e"/><circle cx="80" cy="28.0" r="7" fill="#27c93f"/>
+<text x="600.0" y="33.0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#7a8896">druckauftrag-manager</text>
+<text x="40" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17"><tspan fill="#7ee787">ario@frankfurt</tspan><tspan fill="#7a8896">:~$ </tspan><tspan fill="#d3dbe3">mvn spring-boot:run</tspan></text>
+<text x="40" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="36" fill="#4fd1e0" font-weight="700">Druckauftrag-Manager</text>
+<text x="40" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">Was ist im Druck? Was muss heute raus?</text>
+<text x="40" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#f0b45a">▸</text>
+<text x="62.4" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#d3dbe3">Statusablauf vom Eingang bis zur Abholung</text>
+<text x="40" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#f0b45a">▸</text>
+<text x="62.4" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#d3dbe3">Preis aus Auflage, Format und Papier (BigDecimal)</text>
+<text x="40" y="290" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#f0b45a">▸</text>
+<text x="62.4" y="290" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#d3dbe3">Übersicht: heute fällig, diese Woche, überfällig</text>
+<text x="40" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#f0b45a">▸</text>
+<text x="62.4" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#d3dbe3">Validierung, eigene Fehlerseite, 14 JUnit-5-Tests</text>
+<text x="40" y="392" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15"><tspan fill="#4fd1e0">Java 21</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">Spring Boot</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">JPA</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">Thymeleaf</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">H2</tspan><tspan fill="#26323f"> │ </tspan><tspan fill="#4fd1e0">JUnit 5</tspan></text>
+<text x="40" y="424" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a">→ github.com/Ario-Mi/druckauftrag-manager</text>
+<rect x="640" y="84" width="236" height="136" rx="6" fill="#0f171f" stroke="#26323f" stroke-width="1.4"/>
+<path d="M640 118H876" stroke="#26323f"/>
+<text x="654" y="107" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a" font-weight="700">kunde</text>
+<text x="654" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#4fd1e0">firma</text>
+<text x="654" y="164" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">ansprechpartner</text>
+<text x="654" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">email</text>
+<text x="654" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">telefon</text>
+<rect x="924" y="84" width="236" height="232" rx="6" fill="#0f171f" stroke="#4fd1e0" stroke-width="1.4"/>
+<path d="M924 118H1160" stroke="#26323f"/>
+<text x="938" y="107" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a" font-weight="700">auftrag</text>
+<text x="938" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#4fd1e0">kunde_id → kunde</text>
+<text x="938" y="164" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">produkt</text>
+<text x="938" y="188" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">auflage</text>
+<text x="938" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">format</text>
+<text x="938" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">papiersorte</text>
+<text x="938" y="260" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">liefertermin</text>
+<text x="938" y="284" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#4fd1e0">status</text>
+<text x="938" y="308" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">preis</text>
+<rect x="640" y="246" width="236" height="168" rx="6" fill="#0f171f" stroke="#26323f" stroke-width="1.4"/>
+<path d="M640 280H876" stroke="#26323f"/>
+<text x="654" y="269" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#f0b45a" font-weight="700">Status</text>
+<text x="654" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">EINGEGANGEN</text>
+<text x="654" y="326" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">↓ IN_GESTALTUNG</text>
+<text x="654" y="350" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">↓ IM_DRUCK</text>
+<text x="654" y="374" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#d3dbe3">↓ ABHOLBEREIT</text>
+<text x="654" y="398" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7a8896">↓ ERLEDIGT</text>
+<path d="M876 140H924" fill="none" stroke="#7a8896" stroke-width="1.4"/>
+<text x="882" y="134" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7a8896">1</text>
+<text x="910" y="134" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#7a8896">n</text>
+<path d="M924 284H876" fill="none" stroke="#7a8896" stroke-width="1.4" stroke-dasharray="4 3"/>
+<text x="640" y="452" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#f0b45a">preis = format × papier × auflage − rabatt + 15,00 €</text>
+</svg>
