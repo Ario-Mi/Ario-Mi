@@ -40,7 +40,7 @@ Ich mache bei der CBW eine Umschulung zum Fachinformatiker für Anwendungsentwic
 
 <img src="assets/certs.svg" alt="Erworbene Zertifizierungen: Professional Scrum Master I (PSM I) von Scrum.org, AWS Certified Cloud Practitioner von Amazon Web Services, Oracle Certified Foundations Associate Java von Oracle." width="100%">
 
-<img src="assets/skills.svg" alt="In Unterricht und eigenen Projekten eingesetzt: Python, Java, PHP, JavaScript, SQL, Flask, SQLAlchemy, Jinja2, PDO, HTML5, CSS3, AJAX, React, jQuery, WordPress, MySQL/MariaDB, SQLite, Datenbankentwurf, pytest, unittest, GitHub Actions, OOP, UML, Scrum, Git. Grundlagen: Node.js, NoSQL." width="100%">
+<img src="assets/skills.svg" alt="In Unterricht und eigenen Projekten eingesetzt: Python, Java, PHP, JavaScript, SQL, Spring Boot, Spring Data JPA, Flask, SQLAlchemy, PDO, HTML5, CSS3, Thymeleaf, Jinja2, AJAX, React, jQuery, WordPress, MySQL/MariaDB, SQLite, H2, Datenbankentwurf, JUnit 5, pytest, unittest, GitHub Actions, OOP, UML, Scrum, Git, Maven. Grundlagen: Node.js, NoSQL." width="100%">
 
 <details>
 <summary><b>Weitere Unterrichtsinhalte</b></summary>

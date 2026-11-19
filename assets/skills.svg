@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 462" width="1200" height="462" role="img" aria-labelledby="t d">
 <title id="t">technologien/</title>
-<desc id="d">Technologien. In Unterricht und eigenen Projekten eingesetzt: Python, Java, PHP, JavaScript, SQL, Flask, SQLAlchemy, Jinja2, PDO, HTML5, CSS3, AJAX, React, jQuery, WordPress, MySQL/MariaDB, SQLite, Datenbankentwurf, pytest, unittest, GitHub Actions, OOP, UML, Scrum, Git. Grundlagen: Node.js, NoSQL.</desc>
+<desc id="d">Technologien. In Unterricht und eigenen Projekten eingesetzt: Python, Java, PHP, JavaScript, SQL, Spring Boot, Spring Data JPA, Flask, SQLAlchemy, PDO, HTML5, CSS3, Thymeleaf, Jinja2, AJAX, React, jQuery, WordPress, MySQL/MariaDB, SQLite, H2, Datenbankentwurf, JUnit 5, pytest, unittest, GitHub Actions, OOP, UML, Scrum, Git, Maven. Grundlagen: Node.js, NoSQL.</desc>
 <rect x="1" y="1" width="1198" height="460" rx="12" fill="#0b0f14" stroke="#26323f" stroke-width="2"/>
 <path d="M1 13a12 12 0 0 1 12 -12H1187a12 12 0 0 1 12 12V54H1Z" fill="#121a22"/>
 <path d="M2 54H1198" stroke="#26323f" stroke-width="2"/>
@@ -14,19 +14,19 @@
 <text x="250" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">Python, Java, PHP, JavaScript, SQL</text>
 <text x="56" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#7a8896">├──</text>
 <text x="112" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#4fd1e0" font-weight="700">backend</text>
-<text x="250" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">Flask, SQLAlchemy, Jinja2, PDO</text>
+<text x="250" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">Spring Boot, Spring Data JPA, Flask, SQLAlchemy, PDO</text>
 <text x="56" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#7a8896">├──</text>
 <text x="112" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#4fd1e0" font-weight="700">web</text>
-<text x="250" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">HTML5, CSS3, AJAX, React, jQuery, WordPress</text>
+<text x="250" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">HTML5, CSS3, Thymeleaf, Jinja2, AJAX, React, jQuery, WordPress</text>
 <text x="56" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#7a8896">├──</text>
 <text x="112" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#4fd1e0" font-weight="700">daten</text>
-<text x="250" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">MySQL/MariaDB, SQLite, Datenbankentwurf</text>
+<text x="250" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">MySQL/MariaDB, SQLite, H2, Datenbankentwurf</text>
 <text x="56" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#7a8896">├──</text>
 <text x="112" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#4fd1e0" font-weight="700">tests</text>
-<text x="250" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">pytest, unittest, GitHub Actions</text>
+<text x="250" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">JUnit 5, pytest, unittest, GitHub Actions</text>
 <text x="56" y="332" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#7a8896">└──</text>
 <text x="112" y="332" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#4fd1e0" font-weight="700">vorgehen</text>
-<text x="250" y="332" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">OOP, UML, Scrum, Git</text>
+<text x="250" y="332" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#d3dbe3">OOP, UML, Scrum, Git, Maven</text>
 <text x="40" y="376" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#f0b45a" font-weight="700">grundlagen/</text>
 <text x="168.75" y="376" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="15" fill="#7a8896"># im Unterricht kennengelernt</text>
 <text x="56" y="408" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#7a8896">└──</text>

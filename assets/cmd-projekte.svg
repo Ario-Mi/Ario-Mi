@@ -3,5 +3,5 @@
 <rect x="1" y="1" width="1198" height="62" rx="10" fill="#0b0f14" stroke="#26323f" stroke-width="2"/>
 <rect x="1" y="1" width="6" height="62" rx="3" fill="#f0b45a"/>
 <text x="32" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="20"><tspan fill="#7ee787">ario@frankfurt</tspan><tspan fill="#7a8896">:~$ </tspan><tspan fill="#d3dbe3">ls ~/projekte</tspan></text>
-<text x="1168" y="39" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#7a8896"># 6 Repositories, Schwerpunkt zuerst</text>
+<text x="1168" y="39" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" fill="#7a8896"># 7 Repositories, Schwerpunkt zuerst</text>
 </svg>
