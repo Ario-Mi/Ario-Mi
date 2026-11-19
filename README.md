@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Terminalfenster mit dem Pixel-Monogramm ARIO und den Eckdaten: Umschulung zum Fachinformatiker für Anwendungsentwicklung bei der CBW, Frankfurt am Main, in Ausbildung, sucht einen Praktikumsplatz, Stack Java, Python, PHP und SQL, 6 öffentliche Repositories, davon 5 mit Live-Demo, Zertifikate PSM I, AWS Certified Cloud Practitioner und Oracle Java Foundations" width="100%">
+<img src="assets/hero.svg" alt="Terminalfenster mit dem Pixel-Monogramm ARIO und den Eckdaten: Umschulung zum Fachinformatiker für Anwendungsentwicklung bei der CBW, Frankfurt am Main, in Ausbildung, sucht einen Praktikumsplatz, Stack Java, Python, PHP und SQL, 7 öffentliche Repositories, davon 5 mit Live-Demo, Zertifikate PSM I, AWS Certified Cloud Practitioner und Oracle Java Foundations" width="100%">
 
 </div>
 
@@ -11,6 +11,8 @@ Ich mache bei der CBW eine Umschulung zum Fachinformatiker für Anwendungsentwic
 <br>
 
 <img src="assets/cmd-projekte.svg" alt="ls ~/projekte" width="100%">
+
+<a href="https://github.com/Ario-Mi/druckauftrag-manager"><img src="assets/projekt-druckauftrag.svg" alt="Druckauftrag-Manager: Auftragsverwaltung für eine kleine Digitaldruckerei mit Java 21, Spring Boot, Spring Data JPA, Thymeleaf und H2. Statusablauf vom Eingang bis zur Abholung, Preisberechnung nach Auflage, Format und Papier mit BigDecimal, Übersicht mit fälligen und überfälligen Aufträgen, Validierung, eigene Fehlerseite und 14 JUnit-5-Tests." width="100%"></a>
 
 <a href="https://github.com/Ario-Mi/geraeteverleih"><img src="assets/projekt-geraeteverleih.svg" alt="Geräteverleih: Flask-Webanwendung zur Ausleihe von Geräten mit Python, Flask, SQLAlchemy, SQLite und pytest. Doppelte Ausleihe per partiellem Index verhindert, idempotente Rückgabe, Transaktionen mit Rollback, CSRF-Schutz, 62 pytest-Tests mit GitHub Actions, statische Live-Demo auf GitHub Pages." width="100%"></a>
 
